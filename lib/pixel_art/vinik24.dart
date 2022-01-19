@@ -13,7 +13,7 @@ import 'package:flutter/widgets.dart';
 
 
 
-/// ![](/assets/vinik24/vinik24.png)
+/// ![](https://github.com/madmandd/madcolor/blob/main/assets/vinik24/vinik24.png)
 class Vinik24Color {
   static const black = Color(0xFF000000);
   static const old_lavender = Color(0xFF6F6776);
