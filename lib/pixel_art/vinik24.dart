@@ -7,14 +7,16 @@
 
 
 
-// ignore_for_file: constant_identifier_names
 
 import 'package:flutter/widgets.dart';
 
 
 
-/// ![](https://github.com/madmandd/madcolor/blob/main/assets/vinik24/vinik24.png)
+// ignore_for_file: constant_identifier_names
+/// ![](https://raw.githubusercontent.com/madmandd/madcolor/main/assets/vinik24/vinik24.png)
 class Vinik24Color {
+  Vinik24Color._();
+  
   static const black = Color(0xFF000000);
   static const old_lavender = Color(0xFF6F6776);
   static const lemon_grass = Color(0xFF9a9a97);

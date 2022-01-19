@@ -25,14 +25,11 @@ class MadColorGenerator extends StatelessWidget {
     return Scaffold(
       body: Column(
         children: [
-          Container(
-            color: Colors.white,
-          ),
           Center(
             child: Container(
               width: 36,
               height: 36,
-              color: Vinik24Color.chelsea_cucumber,
+              
             ),
           )
         ],
