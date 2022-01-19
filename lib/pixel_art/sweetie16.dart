@@ -1,7 +1,6 @@
 // author & created by GrafxKid.
 // ignore_for_file: constant_identifier_names
 
-
 /// ![](https://raw.githubusercontent.com/madmandd/madcolor/main/assets/sweetie16/sweetie16.png)
 import 'package:flutter/widgets.dart';
 
