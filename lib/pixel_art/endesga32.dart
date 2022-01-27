@@ -1,8 +1,6 @@
 /// author & created by ENDESGA
 // ignore_for_file: constant_identifier_names
 
-
-
 import 'package:flutter/widgets.dart';
 /// ![](https://raw.githubusercontent.com/madmandd/madcolor/main/assets/endesga32/endesga32.png)
 class Endesga32Color {
